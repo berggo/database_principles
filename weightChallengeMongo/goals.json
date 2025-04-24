@@ -1,0 +1,14 @@
+[
+  {
+    _id: ObjectId('680975edba4e76711dd861e3'),
+    customerId: null,
+    challengeId: null,
+    goal: null
+  },
+  {
+    _id: ObjectId('68097ce623d5dcfef6d861e6'),
+    customerId: null,
+    challengeId: null,
+    goal: 'Lose 10 lbs by June'
+  }
+]

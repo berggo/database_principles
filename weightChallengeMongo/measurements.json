@@ -1,0 +1,23 @@
+[
+  {
+    _id: ObjectId('680975e2ba4e76711dd861e2'),
+    date: null,
+    customerId: null,
+    challengeId: null,
+    weight: null
+  },
+  {
+    _id: ObjectId('68097ce623d5dcfef6d861e4'),
+    customerId: null,
+    challengeId: null,
+    date: ISODate('2025-04-10T00:00:00.000Z'),
+    weight: 180
+  },
+  {
+    _id: ObjectId('68097ce623d5dcfef6d861e5'),
+    customerId: null,
+    challengeId: null,
+    date: ISODate('2025-04-15T00:00:00.000Z'),
+    weight: 175
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    _id: ObjectId('680975baba4e76711dd861e1'),
+    startDate: null,
+    endDate: null,
+    amount: null,
+    status: null
+  },
+  {
+    _id: ObjectId('68097ce523d5dcfef6d861e2'),
+    startDate: ISODate('2025-05-01T00:00:00.000Z'),
+    endDate: ISODate('2025-06-01T00:00:00.000Z'),
+    amount: 100,
+    status: 'Active'
+  },
+  {
+    _id: ObjectId('68097ce523d5dcfef6d861e3'),
+    startDate: ISODate('2025-06-10T00:00:00.000Z'),
+    endDate: ISODate('2025-07-10T00:00:00.000Z'),
+    amount: 80,
+    status: 'Upcoming'
+  }
+]

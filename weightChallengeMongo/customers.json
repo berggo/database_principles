@@ -1,0 +1,20 @@
+[
+  {
+    _id: ObjectId('680975afba4e76711dd861e0'),
+    name: 'Jane',
+    email: 'jane@example.com',
+    createDate: ISODate('2025-04-23T23:27:15.823Z')
+  },
+  {
+    _id: ObjectId('68097ce523d5dcfef6d861e0'),
+    name: 'Jane',
+    email: 'jane@example.com',
+    createDate: ISODate('2025-04-01T00:00:00.000Z')
+  },
+  {
+    _id: ObjectId('68097ce523d5dcfef6d861e1'),
+    name: 'Mike',
+    email: 'mike@example.com',
+    createDate: ISODate('2025-04-02T00:00:00.000Z')
+  }
+]
